@@ -1,7 +1,7 @@
 <!--change the Hello to Hello World-->
-<h1>Hello</h1>
+<h1>Hello World</h1>
 <!--change the hello to the id-->
-<p>hello</p>
+<p>ID</p>
 <!--kindly add some more lines-->
 <p>12345678910111213</p>
 
